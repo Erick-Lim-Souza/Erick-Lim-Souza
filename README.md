@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Infraestrutura e Cloud: AWS, gerenciamento de redes e segurança
 
 
-
+### Redes
 
 - [Meu LinKedin](https://www.linkedin.com/in/erick-souza-70404686/ "Meu LinKedin")
 - [Meu perfil DIO.me](https://www.dio.me/users/erickdelimasouza "Meu perfil DIO.me")
