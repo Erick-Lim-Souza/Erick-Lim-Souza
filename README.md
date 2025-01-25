@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 - [Meu LinKedin](https://www.linkedin.com/in/erick-souza-70404686/ "Meu LinKedin")
 - [Meu perfil DIO.me](https://www.dio.me/users/erickdelimasouza "Meu perfil DIO.me")
+- [Meu perfil REMOTAR Jobs](https://remotar.com.br/user-profile/ericksouza")
 
 ### Vamos nos conectar e trocar ideias! 🚀
 
