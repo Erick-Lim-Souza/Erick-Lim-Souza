@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 # Erick-Lim-Souza.md
 
-
-![img para github](https://github.com/user-attachments/assets/56f06ef8-afd6-4fe2-bb0f-cce2f21449e5)
-
-
-
-
 ### Sobre mim
 
 - Olá! Eu sou Erick de Lima Souza, apaixonado por tecnologia e aprendizado contínuo. Minha trajetória profissional de 13 anos começou como Auxiliar de Informática, e hoje atuo como Supervisor de Suporte Técnico, liderando equipes, analisando atendimentos e solucionando - problemas em ERP e bancos de dados.
@@ -31,6 +25,8 @@ Here are some ideas to get you started:
 - Minha experiência também inclui projetos em Quality Assurance, automação de testes com ferramentas como Cypress e Robot Framework, e conhecimentos em JavaScript, que estou continuamente aprimorando.
 
 - Aqui no GitHub, compartilho projetos, exploro novas tecnologias e busco colaborar em iniciativas que ajudem a criar soluções inovadoras e impactantes.
+
+![img para github](https://github.com/user-attachments/assets/bc44cc9b-2bf8-4fc8-99db-fad74827394f)
 
 ### Habilidades
 - Tecnico em manutenção e configuração de computadores.
