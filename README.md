@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 # Erick-Lim-Souza.md
 
 
-![ghghg](https://github.com/user-attachments/assets/32d21b35-4bb2-4438-b5d5-c7689ff541d6)
+![img para github](https://github.com/user-attachments/assets/56f06ef8-afd6-4fe2-bb0f-cce2f21449e5)
+
+
+
 
 ### Sobre mim
 
