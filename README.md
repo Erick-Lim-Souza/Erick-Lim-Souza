@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim
 
-- Olá! Eu sou **`Erick de Lima Souza`** , apaixonado por tecnologia e aprendizado contínuo. Minha trajetória profissional de 13 anos começou como Auxiliar de Informática, e hoje atuo como Supervisor de Suporte Técnico, liderando equipes, analisando atendimentos e solucionando - problemas em ERP e bancos de dados.
+- Olá! Eu sou Erick de Lima Souza, apaixonado por tecnologia e aprendizado contínuo. Minha trajetória profissional de 13 anos começou como Auxiliar de Informática, e hoje atuo como Supervisor de Suporte Técnico, liderando equipes, analisando atendimentos e solucionando - problemas em ERP e bancos de dados.
 
 - Sou formado pela Ampli em CST DevOps e atualmente estou cursando Bacharel em Ciências da Computação pela Gran Faculdade. Além disso, possuo certificações e cursos nas áreas de Inteligência Artificial, Cloud AWS, GitHub, entre outros, pelas plataformas Alura e Dio.me.
 
