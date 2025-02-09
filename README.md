@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - [Meu perfil DIO.me](https://www.dio.me/users/erickdelimasouza "Meu perfil DIO.me")
 - [Meu perfil Alura](https://cursos.alura.com.br/user/erickdelimasouza)
 - [Meu perfil REMOTAR Jobs](https://remotar.com.br/user-profile/ericksouza)
+- [Meu perfil Rocketseat](https://app.rocketseat.com.br/me/ericksouza)
 
 ### Vamos nos Conectar! 🚀
 
